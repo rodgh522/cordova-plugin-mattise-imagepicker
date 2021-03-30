@@ -1,27 +1,25 @@
 {
-  "_from": "cordova-plugin-matisse-imagepicker@^1.0.0",
+  "_from": "git+https://github.com/rodgh522/cordova-plugin-mattise-imagepicker.git",
   "_id": "cordova-plugin-matisse-imagepicker@1.0.0",
   "_inBundle": false,
-  "_integrity": "sha512-guf+BHB7O3g1ll3++d+aOvTGHXwBmqdxBFJTCKKMIGqazlf+Sq3Bsd1tRRswPRxy1MZRlJIe6Arz4pdCCmOigA==",
+  "_integrity": "",
   "_location": "/cordova-plugin-matisse-imagepicker",
   "_phantomChildren": {},
   "_requested": {
-    "type": "range",
-    "registry": true,
-    "raw": "cordova-plugin-matisse-imagepicker@^1.0.0",
-    "name": "cordova-plugin-matisse-imagepicker",
-    "escapedName": "cordova-plugin-matisse-imagepicker",
-    "rawSpec": "^1.0.0",
-    "saveSpec": null,
-    "fetchSpec": "^1.0.0"
+    "type": "git",
+    "raw": "https://github.com/rodgh522/cordova-plugin-mattise-imagepicker.git",
+    "rawSpec": "https://github.com/rodgh522/cordova-plugin-mattise-imagepicker.git",
+    "saveSpec": "git+https://github.com/rodgh522/cordova-plugin-mattise-imagepicker.git",
+    "fetchSpec": "https://github.com/rodgh522/cordova-plugin-mattise-imagepicker.git",
+    "gitCommittish": null
   },
   "_requiredBy": [
-    "#DEV:/",
-    "#USER"
+    "#USER",
+    "/"
   ],
-  "_resolved": "https://registry.npmjs.org/cordova-plugin-matisse-imagepicker/-/cordova-plugin-matisse-imagepicker-1.0.0.tgz",
+  "_resolved": "git+https://github.com/rodgh522/cordova-plugin-mattise-imagepicker.git#27b8e15dffcbf66df2545b95a0cef3cd8f9de831",
   "_shasum": "37e2a29200efec9228a716334a99e044df89167a",
-  "_spec": "cordova-plugin-matisse-imagepicker@^1.0.0",
+  "_spec": "https://github.com/rodgh522/cordova-plugin-mattise-imagepicker.git",
   "_where": "D:\\ionic\\demo3",
   "bugs": {
     "url": "https://github.com/matisse-Verified-Plugins/ImagePicker/issues"
