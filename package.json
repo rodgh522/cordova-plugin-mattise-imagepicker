@@ -1,34 +1,34 @@
 {
-  "_from": "cordova-plugin-telerik-imagepicker@^2.3.6",
-  "_id": "cordova-plugin-telerik-imagepicker@2.3.6",
+  "_from": "cordova-plugin-matisse-imagepicker@^1.0.0",
+  "_id": "cordova-plugin-matisse-imagepicker@1.0.0",
   "_inBundle": false,
   "_integrity": "sha512-guf+BHB7O3g1ll3++d+aOvTGHXwBmqdxBFJTCKKMIGqazlf+Sq3Bsd1tRRswPRxy1MZRlJIe6Arz4pdCCmOigA==",
-  "_location": "/cordova-plugin-telerik-imagepicker",
+  "_location": "/cordova-plugin-matisse-imagepicker",
   "_phantomChildren": {},
   "_requested": {
     "type": "range",
     "registry": true,
-    "raw": "cordova-plugin-telerik-imagepicker@^2.3.6",
-    "name": "cordova-plugin-telerik-imagepicker",
-    "escapedName": "cordova-plugin-telerik-imagepicker",
-    "rawSpec": "^2.3.6",
+    "raw": "cordova-plugin-matisse-imagepicker@^1.0.0",
+    "name": "cordova-plugin-matisse-imagepicker",
+    "escapedName": "cordova-plugin-matisse-imagepicker",
+    "rawSpec": "^1.0.0",
     "saveSpec": null,
-    "fetchSpec": "^2.3.6"
+    "fetchSpec": "^1.0.0"
   },
   "_requiredBy": [
     "#DEV:/",
     "#USER"
   ],
-  "_resolved": "https://registry.npmjs.org/cordova-plugin-telerik-imagepicker/-/cordova-plugin-telerik-imagepicker-2.3.6.tgz",
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-matisse-imagepicker/-/cordova-plugin-matisse-imagepicker-1.0.0.tgz",
   "_shasum": "37e2a29200efec9228a716334a99e044df89167a",
-  "_spec": "cordova-plugin-telerik-imagepicker@^2.3.6",
+  "_spec": "cordova-plugin-matisse-imagepicker@^1.0.0",
   "_where": "D:\\ionic\\demo3",
   "bugs": {
-    "url": "https://github.com/Telerik-Verified-Plugins/ImagePicker/issues"
+    "url": "https://github.com/matisse-Verified-Plugins/ImagePicker/issues"
   },
   "bundleDependencies": false,
   "cordova": {
-    "id": "cordova-plugin-telerik-imagepicker",
+    "id": "cordova-plugin-matisse-imagepicker",
     "platforms": [
       "ios",
       "android",
@@ -42,18 +42,18 @@
     "name": "cordova",
     "version": ">=6.2.3"
   },
-  "homepage": "https://github.com/Telerik-Verified-Plugins/ImagePicker#readme",
+  "homepage": "https://github.com/matisse-Verified-Plugins/ImagePicker#readme",
   "issue": "",
   "keywords": [],
   "license": "MIT",
-  "name": "cordova-plugin-telerik-imagepicker",
+  "name": "cordova-plugin-matisse-imagepicker",
   "platforms": [
     "android",
     "ios"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Telerik-Verified-Plugins/ImagePicker.git"
+    "url": "git+https://github.com/matisse-Verified-Plugins/ImagePicker.git"
   },
-  "version": "2.3.6"
+  "version": "1.0.0"
 }
