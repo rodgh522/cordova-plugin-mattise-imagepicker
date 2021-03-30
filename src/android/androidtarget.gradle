@@ -1,0 +1,7 @@
+repositories {
+    jcenter()
+}
+
+dependencies {
+    implementation 'com.zhihu.android:matisse:0.5.3-beta3'
+}
